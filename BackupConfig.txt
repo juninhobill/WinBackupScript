@@ -1,0 +1,10 @@
+# Enter file and folder names, one per line.
+D:\AWS
+D:\Backup
+D:\Personal
+D:\Pictures
+D:\Projects
+D:\Documents
+D:\Scripts
+D:\Templates
+D:\Notes.txt
